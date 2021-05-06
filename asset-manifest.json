@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/JeuDuMorpion/static/css/main.1a106c45.chunk.css",
+    "main.js": "/JeuDuMorpion/static/js/main.3259899d.chunk.js",
+    "main.js.map": "/JeuDuMorpion/static/js/main.3259899d.chunk.js.map",
+    "runtime-main.js": "/JeuDuMorpion/static/js/runtime-main.f734911f.js",
+    "runtime-main.js.map": "/JeuDuMorpion/static/js/runtime-main.f734911f.js.map",
+    "static/js/2.c6324b49.chunk.js": "/JeuDuMorpion/static/js/2.c6324b49.chunk.js",
+    "static/js/2.c6324b49.chunk.js.map": "/JeuDuMorpion/static/js/2.c6324b49.chunk.js.map",
+    "index.html": "/JeuDuMorpion/index.html",
+    "static/css/main.1a106c45.chunk.css.map": "/JeuDuMorpion/static/css/main.1a106c45.chunk.css.map",
+    "static/js/2.c6324b49.chunk.js.LICENSE.txt": "/JeuDuMorpion/static/js/2.c6324b49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f734911f.js",
+    "static/js/2.c6324b49.chunk.js",
+    "static/css/main.1a106c45.chunk.css",
+    "static/js/main.3259899d.chunk.js"
+  ]
+}
